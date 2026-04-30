@@ -1,0 +1,281 @@
+{
+  "brand": {
+    "name": "SkynetLabs E-commerce Demo",
+    "tagline": "Spring 2026 — The Studio Edit"
+  },
+  "niche": "ecommerce",
+  "niche_label": "E-commerce + DTC",
+  "location": {
+    "city": "New York",
+    "region": "NY",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-212-555-0405"
+  },
+  "palette": {
+    "bg": "#FAFAF7",
+    "surface": "#FFFFFF",
+    "ink": "#0A0A0A",
+    "accent": "#C44536",
+    "detail": "#8A8276"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Inter",
+    "mono": null
+  },
+  "dark_mode": false,
+  "hero": {
+    "kind": "cinemagraph",
+    "h1": "Spring 2026 — *The* Studio Edit.",
+    "sub": "A small drop. Made in New York. Available now.",
+    "photo_url": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Lauren Fleischmann on Unsplash",
+    "cinemagraph_url": null,
+    "overlay": "rgba(0,0,0,0.0)",
+    "focal_point": "center"
+  },
+  "hero_3d": null,
+  "copy": {
+    "primary_cta": "Shop the Edit →",
+    "primary_cta_href": "#shop",
+    "secondary_cta": "Free shipping over $250 — Spring drop live",
+    "secondary_cta_href": "#shop",
+    "sticky_mobile_bar": "Spring drop live — free shipping $250+"
+  },
+  "trust_strip": [
+    "Featured · Vogue · GQ · Highsnobiety",
+    "Hypebeast · NYT Styles · BoF",
+    "CFDA Member",
+    "Certified B Corp",
+    "Made in New York"
+  ],
+  "service_area": {
+    "primary_city": "New York, NY",
+    "service_area_cities": [
+      "Manhattan, NY",
+      "SoHo, NY",
+      "Tribeca, NY",
+      "West Village, NY",
+      "Greenwich Village, NY",
+      "Nolita, NY",
+      "Lower East Side, NY",
+      "Williamsburg, NY",
+      "Brooklyn Heights, NY",
+      "DUMBO, NY",
+      "Park Slope, NY",
+      "Bushwick, NY",
+      "Greenpoint, NY",
+      "Long Island City, NY",
+      "Astoria, NY",
+      "Los Angeles, CA",
+      "San Francisco, CA",
+      "Chicago, IL",
+      "Boston, MA",
+      "Washington, DC",
+      "Philadelphia, PA",
+      "Miami, FL",
+      "Atlanta, GA",
+      "Nashville, TN",
+      "Portland, OR",
+      "Seattle, WA",
+      "Austin, TX",
+      "Denver, CO",
+      "London, UK",
+      "Tokyo, JP"
+    ]
+  },
+  "services": [
+    {
+      "slug": "the-edit",
+      "title": "The Edit (curated drops)",
+      "blurb": "Quarterly seasonal drops curated by our buying team. Each drop is small — fewer than 30 pieces — and most pieces are made in limited runs that do not restock. Sign up for first-look access via our member list (no spam, four sends per year)."
+    },
+    {
+      "slug": "atelier",
+      "title": "Atelier (made-to-order)",
+      "blurb": "Tailored versions of select pieces from our SoHo atelier. Three-week production from order to delivery. Custom measurements, fabric selection from our European mill partners, and one round of revisions included. The way garments used to be bought."
+    },
+    {
+      "slug": "archive",
+      "title": "Archive (past-season)",
+      "blurb": "Limited remaining inventory from past drops, available at the original price. Sizes are typically incomplete. We do not discount our archive — the work was correctly priced when it was made."
+    },
+    {
+      "slug": "objects",
+      "title": "Objects (home + accessories)",
+      "blurb": "A small collection of objects designed in-house and produced in collaboration with NYC and Italian craft partners — leather goods, ceramic vessels, hand-thrown brass hardware. Released alongside seasonal drops, sometimes as standalone editions."
+    },
+    {
+      "slug": "memberships",
+      "title": "Memberships (early access)",
+      "blurb": "Annual memberships unlock 24-hour early access to drops, tailored atelier pricing, and an annual member-only object. $295 per year. Membership is the only way to reliably acquire pieces from the smallest drops — the Spring 2025 Counter coat sold out in 11 minutes."
+    },
+    {
+      "slug": "the-journal",
+      "title": "The Journal (editorial)",
+      "blurb": "An editorial publication twice a year — print and digital — exploring craft, design, and the cities where our work is made. Photographed and written by our in-house team and contributors. Free to members; available at our SoHo flagship for $24 per issue."
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "Drop release",
+      "blurb": "Quarterly drops launch on the first Tuesday of February, May, August, and November at 10:00 AM Eastern. Members receive 24-hour early access."
+    },
+    {
+      "n": 2,
+      "title": "Order + production",
+      "blurb": "Stock pieces ship within three business days from our Brooklyn fulfillment. Atelier (made-to-order) ships in three weeks."
+    },
+    {
+      "n": 3,
+      "title": "Returns + alterations",
+      "blurb": "Free returns within 30 days for stock pieces. Atelier pieces are non-returnable but include one round of complimentary alterations within 60 days of receipt."
+    },
+    {
+      "n": 4,
+      "title": "Member journal",
+      "blurb": "Two issues per year — Spring and Fall. Print issues mailed to members. Digital companion available year-round."
+    }
+  ],
+  "case_study": {
+    "title": "Spring 2025 Counter Coat — 11-Minute Sellout",
+    "photo_url": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=1920&auto=format&fit=crop&q=80",
+    "quote": "I have been wearing the brand for five years and I own six pieces. The Counter coat sold out in eleven minutes — and somehow my membership came through. The garments age beautifully and I am still wearing pieces from 2021. Worth the membership three times over.",
+    "stats": [
+      {
+        "value": "11 min",
+        "label": "Spring 2025 Counter coat sellout"
+      },
+      {
+        "value": "30 pieces",
+        "label": "Per drop"
+      },
+      {
+        "value": "4×/yr",
+        "label": "Drop cadence"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "I have been wearing the brand for five years and I own six pieces. The garments age beautifully — I am still wearing pieces from 2021. The membership comes through every drop and that is the assignment.",
+      "name": "Sloane G.",
+      "role": "Returning member",
+      "city": "Manhattan, NY"
+    },
+    {
+      "quote": "Highsnobiety profile-piece subject in 2025. The brand is doing the kind of work that the New York fashion scene used to do — small, careful, considered. Press loves them because the garments are real.",
+      "name": "Editor at Vogue",
+      "role": "Press",
+      "city": "New York, NY"
+    },
+    {
+      "quote": "I style for editorial and television and the brand has been on three of my last six covers. The pieces photograph beautifully and the production team is genuinely a pleasure to work with. Permanent on my pull list.",
+      "name": "Camille J.",
+      "role": "Stylist · industry insider",
+      "city": "Brooklyn, NY"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is your sizing philosophy?",
+      "a": "European fit — slightly slimmer than typical American RTW. We publish a detailed sizing guide and recommend ordering one size up from your usual American size for most silhouettes. Atelier pieces are cut to your measurements and bypass sizing entirely."
+    },
+    {
+      "q": "Where are pieces made?",
+      "a": "85% in New York City — primarily our SoHo atelier and our Garment District manufacturing partner. The remaining 15% are made in collaboration with European mills (knits in Italy, denim in Japan, leather goods in Italy). Country of origin and atelier name are listed on every product page."
+    },
+    {
+      "q": "What's your return policy?",
+      "a": "Free returns within 30 days for stock pieces. Atelier (made-to-order) pieces are non-returnable but include one round of complimentary alterations within 60 days. Sale items are final. We make returns easy because the garments are designed to live with you for years — not weeks."
+    },
+    {
+      "q": "Do you offer alterations?",
+      "a": "Yes. One round of complimentary alterations is included with every atelier piece. For stock pieces purchased at retail, we offer alterations through our SoHo atelier at-cost — typically $40 to $90 depending on the alteration. Off-site alterations partners are listed on our care page for clients outside NYC."
+    },
+    {
+      "q": "Is shipping carbon-offset?",
+      "a": "Yes. Carbon-offset on every order via verified offset partner Wren. Recyclable packaging — no plastic. Domestic orders ship via UPS ground, international via DHL Express. We are a Certified B Corp and our supply-chain disclosures are public."
+    },
+    {
+      "q": "How do drops/restocks work?",
+      "a": "Quarterly drops on the first Tuesday of February, May, August, November at 10:00 AM Eastern. Most pieces do not restock — production runs are intentionally small. Members receive 24-hour early access. Sign up for the member list for first-look notifications without commitment."
+    },
+    {
+      "q": "Do you ship internationally?",
+      "a": "Yes. Express international shipping via DHL with all duties and taxes calculated at checkout — no surprise customs invoices. Free international shipping on orders over $500."
+    },
+    {
+      "q": "Where is the NYC flagship?",
+      "a": "127 Spring Street, between Greene and Wooster. Open Tuesday through Saturday, 11:00 AM to 7:00 PM. The atelier appointment desk is in the rear of the flagship. Atelier appointments are available by reservation only."
+    }
+  ],
+  "lead_magnet": {
+    "title": "The Studio Edit Guide to Caring for Made-in-New-York Garments",
+    "subtitle": "How to make a small wardrobe last — washing, storage, and alterations. 16 pages.",
+    "cta": "Read the guide →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496217590455-aa63a8350eea?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1485518882345-15568b007407?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://www.aimeleondore.com/",
+    "https://telfar.net/",
+    "https://www.glossier.com/",
+    "https://us.aesop.com/",
+    "https://www.everlane.com/"
+  ],
+  "anti_patterns": [
+    "Countdown-timer urgency popups",
+    "AS SEEN ON celebrity grids without permission",
+    "40-item mega-menu navigation"
+  ],
+  "modules": {
+    "booking_calendar": false,
+    "service_area_map": false,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true,
+    "product_grid": true
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "The Studio Edit | NYC Made-To-Order Fashion | SkynetLabs",
+    "description": "Quarterly drops, made-to-order atelier, and limited editions. Made in New York. Vogue, GQ, Highsnobiety featured. Certified B Corp.",
+    "keywords": [
+      "nyc fashion brand",
+      "made in new york fashion",
+      "small drop fashion",
+      "atelier made to order",
+      "dtc fashion brand"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=ecommerce",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=ecommerce",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}
